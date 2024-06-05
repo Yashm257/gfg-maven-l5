@@ -22,6 +22,7 @@ public class Calculator {
         System.out.println("sum is "+ob.sum(20,10));
         System.out.println("sub is "+ob.sub(20,10));
         System.out.println("mul is "+ob.mul(20,10));
+        System.out.println("welcome ");
     }
 	
 
